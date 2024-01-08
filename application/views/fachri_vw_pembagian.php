@@ -1,10 +1,10 @@
-<?php $page = base_url('fachri_dashboard/fachri_pembagian'); ?>
+<?php $page = base_url('fachri_ctrl_dashboard/fachri_pembagian'); ?>
 
-<div class="container mt-3">
+<div class="container mt-3 col-12">
     <h1>Selamat Datang Di Form Pembagian!</h1>
     <div class="body">
         <p>Masukan Data</p>
-        <form action="<?= base_url('fachri_dashboard/fachri_pembagian') ?>" method="post">
+        <form action="<?= base_url('fachri_ctrl_dashboard/fachri_pembagian') ?>" method="post">
             <div class="form-row">
                 <div class="form-group col-md-4">
                     <label for="v1">Panjang
@@ -39,7 +39,7 @@
 
         <div class="mt-4">
             <strong>Hasil:</strong> <span class="font-weight-bold text-success"><?= $hasil; ?></span> <br>
-            <a href="<?= base_url('fachri_dashboard'); ?>" class="btn btn-secondary mt-3">&lt;&lt; Kembali</a>
+            <a href="<?= base_url('fachri_ctrl_dashboard'); ?>" class="btn btn-secondary mt-3">&lt;&lt; Kembali</a>
         </div>
     </div>
 </div>

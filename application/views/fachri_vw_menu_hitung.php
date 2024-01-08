@@ -5,10 +5,10 @@
         <p>Pilih Menu</p>
         <ul class="list-group">
             <li class="list-group-item">
-                <?php echo "<a href=\"fachri_dashboard/fachri_perkalian\">Perkalian</a>"; ?>
+                <?php echo "<a href=\"fachri_ctrl_dashboard/fachri_perkalian\">Perkalian</a>"; ?>
             </li>
             <li class="list-group-item">
-                <?php echo "<a href=\"fachri_dashboard/fachri_pembagian\">Pembagian</a>"; ?>
+                <?php echo "<a href=\"fachri_ctrl_dashboard/fachri_pembagian\">Pembagian</a>"; ?>
             </li>
         </ul>
     </div>
