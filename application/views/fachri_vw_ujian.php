@@ -13,7 +13,7 @@
         </div>
         <div class="row">
             <div class="col-2">Link Youtube</div>
-            <div class="col-8">: <a href="https://youtu.be/QpqG0pmjpvs" target="blank">My Youtube</a></div>
+            <div class="col-8">: <a href="https://youtu.be/oGXQkOYJqkk" target="blank">My Youtube</a></div>
         </div>
     </div>
 </div>
